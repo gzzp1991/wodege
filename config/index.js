@@ -1,6 +1,6 @@
 const config = {
   projectName: 'wodege',
-  date: '2021-10-11',
+  date: '2021-10-12',
   designWidth: 750,
   deviceRatio: {
     640: 2.34 / 2,
@@ -18,7 +18,7 @@ const config = {
     options: {
     }
   },
-  framework: 'nerv',
+  framework: 'vue3',
   mini: {
     postcss: {
       pxtransform: {

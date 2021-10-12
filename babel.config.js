@@ -3,7 +3,7 @@
 module.exports = {
   presets: [
     ['taro', {
-      framework: 'nerv',
+      framework: 'vue3',
       ts: false
     }]
   ]

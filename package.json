@@ -2,7 +2,7 @@
   "name": "wodege",
   "version": "1.0.0",
   "private": true,
-  "description": "我的歌你听吗",
+  "description": "我的歌",
   "templateInfo": {
     "name": "default",
     "typescript": false,
@@ -39,20 +39,19 @@
     "@tarojs/components": "3.3.9",
     "@tarojs/runtime": "3.3.9",
     "@tarojs/taro": "3.3.9",
-    "nervjs": "^1.5.0"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "@types/webpack-env": "^1.13.6",
-    "@types/react": "^17.0.2",
     "@tarojs/mini-runner": "3.3.9",
     "@babel/core": "^7.8.0",
     "@tarojs/webpack-runner": "3.3.9",
     "babel-preset-taro": "3.3.9",
+    "@vue/compiler-sfc": "^3.0.0",
+    "vue-loader": "^16.0.0-beta.8",
+    "eslint-plugin-vue": "^7.0.0",
     "eslint-config-taro": "3.3.9",
     "eslint": "^6.8.0",
-    "eslint-plugin-react": "^7.8.2",
-    "eslint-plugin-import": "^2.12.0",
-    "eslint-plugin-react-hooks": "^4.2.0",
     "stylelint": "9.3.0"
   }
 }
