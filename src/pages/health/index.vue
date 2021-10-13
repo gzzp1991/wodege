@@ -10,7 +10,7 @@ import './index.less'
 
 export default {
   setup () {
-    const msg = ref('health1')
+    const msg = ref('health2')
     return {
       msg
     }
